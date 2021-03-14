@@ -23,9 +23,9 @@ Also when the window size changes the profile picture and the Horiseon picture a
 
 I hope that this webpage is a good start to demostrate my skillset. Feel free to take a look at my code!
 
-
-https://mdis928.github.io/Portfolio/
 https://github.com/mdis928/Portfolio
+https://mdis928.github.io/Portfolio/
+
 
 ![Michael_Portfolio](https://user-images.githubusercontent.com/79114439/111081108-082e8180-84d8-11eb-9871-62bea0f995ec.png)
 
