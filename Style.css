@@ -68,7 +68,7 @@ margin-top: 25px;
 }
 
 .headerh2:hover {
-  color: coral
+  color: rgb(80, 255, 80)
 }
 
 .bio {
@@ -89,15 +89,19 @@ display: flex;
 position: relative;
 }
 
+
 .projectimage {
 border: 10px solid white;
 display: flex;
 flex-direction: column;
 justify-content: space-around;
 max-width: 90%;
-
 position: relative;
+}
 
+.projectimage:hover {
+  zoom: 1;
+  color: #2b66ca;
 }
 
 .placeholder {
@@ -159,9 +163,9 @@ position: relative;
 
 
 
-@media screen and (max-width: 1500px) {
+@media screen and (max-width: 950px) {
   .header {
-    background-color: #2b66ca;
+    background-color:#2b66ca;
     }
   
   body {
@@ -169,28 +173,22 @@ position: relative;
     }
   }
 
-  @media screen and (max-width: 1500px) {
+  @media screen and (max-width: 950px) {
     .footer {
       background-color: #2b66ca;
       }
   }
  
-  @media screen and (min-width: 1500px) {
-    .bio, {
-      flex-direction: column;
-      font-size: 10px;
-      }
-    } 
   
-  @media screen and (max-width: 1500px) {
-      .bio, {
+  @media screen and (max-width: 950px) {
+      .bio, .placeholderparagraph {
         flex-direction: column;
-        font-size: 100px;
+        font-size: 20px;
         }
       } 
 
 
-
+    
 
 
 
