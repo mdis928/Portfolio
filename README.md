@@ -27,7 +27,6 @@ I hope that this webpage is a good start to demostrate my skillset. Feel free to
 https://mdis928.github.io/Portfolio/
 https://github.com/mdis928/Portfolio
 
-![MichaelDiSantoPortfolio](./Michael_Porfolio.png)
-
+![Michael_Portfolio](https://user-images.githubusercontent.com/79114439/111081108-082e8180-84d8-11eb-9871-62bea0f995ec.png)
 
 
