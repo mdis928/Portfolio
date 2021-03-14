@@ -42,7 +42,10 @@ a:hover {
 
 
 
-/* Beginning of image */
+
+
+
+/* Beginning of Profile Image */
 .Michael {
 background-image: url("../Portfolio/Mike.jpg");
 margin-bottom: 10px;
@@ -50,7 +53,7 @@ margin-left: 159px;
 flex: 1 0 400px;
 display: flex;
 }
-/* End of image */
+/* End of profile Image */
 
 
 
@@ -99,9 +102,9 @@ max-width: 90%;
 position: relative;
 }
 
-.projectimage:hover {
-  zoom: 1;
+.projectimage img:hover {
   color: #2b66ca;
+  border: 10px solid coral
 }
 
 .placeholder {
@@ -162,7 +165,7 @@ position: relative;
 }
 
 
-
+/* Beginning of media query section */
 @media screen and (max-width: 950px) {
   .header {
     background-color:#2b66ca;
@@ -187,11 +190,28 @@ position: relative;
         }
       } 
 
+      @media screen and (max-width: 992px) {
+        .projectimage img {
+            height: 600px !important;
+            width: 500px !important;
+        }
+    }      
 
+    @media screen and (max-width: 768px) {
+      .projectimage img {
+          height: 400px !important;
+          width: 300px !important;
+      }
+  }  
     
 
-
-
+  @media screen and (max-width: 768px) {
+    .Michael {
+        height: 400px !important;
+        width: 300px !important;
+    }
+}  
+/* End of media query section */
 
 
 

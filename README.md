@@ -19,6 +19,12 @@ The text also becomes small when a max-width of 950px is reached.
 
 When you hover onto the headers, nav links, they change color
 
+Also when the window size changes the profile picture and the Horiseon picture adjust. Media queries doing their job!
+
 I hope that this webpage is a good start to demostrate my skillset. Feel free to take a look at my code!
+
+
+https://mdis928.github.io/Portfolio/
+https://github.com/mdis928/Portfolio
 
 
