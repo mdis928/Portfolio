@@ -87,8 +87,6 @@ color: white;
 
 .horiseon {
 flex: 50% ;
-/* margin-right: 125px; */
-/* margin-left: 65px; */
 margin-bottom: 19px;
 display: flex;
 position: relative;
@@ -103,60 +101,12 @@ text-align: center;
 }
 
 
-/* .projectimage {
-display: flex;
-flex-direction: column;
-justify-content: space-around;
-max-width: 90%;
-position: relative;
-margin-right: 50px;
-margin-left: 100px;
-} */
-
-/* .projectimage img:hover {
-  color: #2b66ca;
-  border: 10px solid coral
-} */
-
-/* .placeholder {
-  margin-right: 500px;
-  display: inline-block;
-} */
-
 .phiposition {
-  /* padding: 0 ;
-  margin: 0; */
-  /* margin-top: 50px; */
   text-align: center;
   font-size: 40px;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   color: white;
 }
-
-/* .phiposition li {
-  display: inline;
-  } */
-
-/* .phiposition ul li {
-  display: inline-block;
-} */
-
-
-
-/* .placeholderimage {
-  margin-right: 50px;
-  margin-left: 100px;
-} */
-
-/* .Homework {
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  font-size: 30px;
-  margin-right: 897px;
-  margin-left: 160px;
-  margin-bottom: 19px;
-  color: white;
-  text-align: center;
-} */
 
 .containerproject {
   text-align: center;
@@ -180,35 +130,6 @@ margin-left: 100px;
 .container h2 {
   font-size: 40px;
 }
-/* .contactme {
-  text-align: center;
-  color: #2b66ca;
-  font-size: 70px;
-  margin: 25px;
-  margin-left: 83px;
-  margin-top: 25px;
-  padding: 60px;
-}  */
-
-/* .contactme a {
-  text-align: center;
-  display: inline-block;
-}
-
-
-
-.contactinfo {
-  text-align: center;
-  font-size: 30px;
-  display: inline-block
-}
-
-.addcontact {
-  text-align: center;
-  font-size: 30px;
-  display: inline-block;
-  color: white;
-} */
 
 .contact {
   text-align: center;
