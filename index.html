@@ -4,6 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Michael DiSanto's_Porfolio</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="./Reset.css" />
     <link rel="stylesheet" href="./Style.css" />
   </head>
@@ -12,11 +13,12 @@
 <Body>
     <header class="header">
         <h1>Michael DiSanto</h1>
-            <Nav class="nav">
+            <Nav>
                 <ul>
                     <li><a href="#AboutMe">About Me</a></li>
-                    <li><a href="#Portfolio"> Portfolio</a></li>
-                    <li><a href="#ContactMe">Contact</a></li>
+                    <li><a href="#Portfolio">Portfolio</a></li>
+                    <li><a href="#Contact">Contact</a></li>
+                    <li><a href="./DiSanto_Resume.pdf">Resume</a></li>
                 </ul>
             </Nav>
     </Header>
@@ -50,32 +52,106 @@
                 </p>
             </section>
 
-            <h2 class="headerh2" id="Portfolio">Portfolio</h2>
-                <section class="horiseon">   
-                    <a class="projectimage" href="https://github.com/mdis928/Horieson-refactor"> <img src="Horiseon.png" alt="Horiseon" style="width: 700px; height: 800px;"></a> 
-                </section>  
-                <section class="phiposition">
-                    <p class="placeholderparagraph">Placeholder images below. These are upcoming projects.</p>
-                        <a class="placeholderimage" href="https://github.com/mdis928"> <img src="placeholderimage.png" alt="image2" style="width: 100px; height: 200px;"></a>
-                        <a class="placeholderimage" href="https://github.com/mdis928"> <img src="placeholderimage.png" alt="image3" style="width: 100px; height: 200px;"></a>
-                        <a class="placeholderimage" href="https://github.com/mdis928"> <img src="placeholderimage.png" alt="image3" style="width: 100px; height: 200px;"></a>
-                        <a class="placeholderimage" href="https://github.com/mdis928"> <img src="placeholderimage.png" alt="image3" style="width: 100px; height: 200px;"></a>
+            <h2 id="Portfolio" class="headerh2">Portfolio</h2>
+                <!-- <section class="phiposition"> -->
+                    <!-- <div> -->
+                    <!-- <h2>Dinner Meal Planning API (Team Project)</h2> 
+                    <ul>
+                        <li><a href="https://realzzkevin.github.io/team-project/">Github Page</a></li>
+                        <li><a href="https://github.com/realzzkevin/team-project">Repository</a></li>
+                        <img src="Project1 - Meal Planning API.png" style="width: 600px; height: 700px">
+                    </ul> -->
+                    <!-- <a class="projectimage" href="https://github.com/realzzkevin/team-project"></a> <img src="Project1 - Meal Planning API.png" alt="Horiseon" style="width: 600px; height: 700px;"></a> -->
+                    <!-- </div>  
+                </section>   -->
+
+                <div class="containerproject">
+                    <div class="row">
+                      <div class="col">
+                        <h2>Dinner Meal Planning API</h2>
+                        <ul>
+                            <li><a href="https://realzzkevin.github.io/Dinner-Meal-Planner/">Github Page</a></li>
+                            <li><a href="https://github.com/realzzkevin/team-project">Repository</a></li>
+                            <img href="https://realzzkevin.github.io/Dinner-Meal-Planner/" src="Project1 - Meal Planning API.png" style="width: 550px; height: 650px" >
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                <div class="container">
+                    <!-- <div class="row">
+                        <div class="col-md-12 text-center">
+                        <h2>Dinner Meal Planning API</h2>
+                    </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-offset-6 col-md-3">
+                            <a href="https://realzzkevin.github.io/team-project/">Github Page</a>
+                        </div>
+                        <div class="col-md-3">
+                            <a href="https://github.com/realzzkevin/team-project">Repository</a>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-offset-6 col-md-6">
+                            <img src="Project1 - Meal Planning API.png" style="width: 600px; height: 700px">
+                        </div>
+                    </div> -->
+                    <div class="row">
+                      <div class="col">
+                        <h2>Horieson-refactoring</h2>
+                            <ul>
+                                <li><a href="https://mdis928.github.io/Horieson-refactor/">Github Page</a></li>
+                                <li><a href="https://github.com/mdis928/Horieson-refactor">Repository</a></li>
+                                <img href="https://mdis928.github.io/Horieson-refactor/" src="Horiseon.png" style="width: 400px; height: 500px">
+                            </ul>
+                      </div>
+                      <div class="col">
+                        <h2>Work Day Scheduler</h2>
+                            <ul>
+                                <li><a href="https://mdis928.github.io/Third-Party-APIs/">Github Page</a></li>
+                                <li><a href="https://github.com/mdis928/Third-Party-APIs">Repository</a></li>
+                                <img href="https://mdis928.github.io/Third-Party-APIs/" src="Work Day Scheduler .png" style="width: 400px; height: 500px;">
+                            </ul>
+                      </div>
+                    </div>
+                </div>
+
+                <h2 id="Contact" class="headerh2">Contact</h2>
+                    <div class="contact">
+                        <ul>
+                            <a class="linkedin" href="https://www.linkedin.com/in/michael-a-disanto-ab1965a7/">LinkedIn</a>
+                            <a class="github" href="https://github.com/mdis928?tab=stars">Github</a>
+                        </ul>
+                            <p>mdisanto928@gmail.com</p>
+                            <p>610-xxx-xxx</p>
+                    </div>
+            
+
+                <!-- <section class="phiposition">
+                    <div class="projectimage">
+                        <h2>Horieson-refactoring</h2>
+                        <a class="projectimage" href="https://github.com/mdis928/Horieson-refactor"> <img src="Horiseon.png" alt="" style="width: 400px; height: 500px;"></a>
+                    </div>   
+                    <div class="projectimage">
+                        <h2>Work Day Scheduler</h2>
+                        <a class="projectimage" href="https://github.com/mdis928/Third-Party-APIs"> <img src="Work Day Scheduler .png" alt="" style="width: 400px; height: 500px;"></a>
+                    </div>
                 </section>
                 <section class="contactme">
-                <h3 id="ContactMe" class="headerh2">Contact Me</h3>
-                <ul><a class="contactinfo" href="linkedin.com/in/michael-a-disanto-ab1965a7">LinkedIn</a>
-                    <a class="contactinfo" href="https://github.com/mdis928">Github</a>
+                    <h3 id="ContactMe" class="headerh2">Contact Me</h3>
+                    <ul><a class="contactinfo" href="linkedin.com/in/michael-a-disanto-ab1965a7">LinkedIn</a>
+                    <a class="contactinfo" href="https://github.com/mdis928?tab=stars">Github</a>   
                 </ul>
-                </section>      
+                </section>    
+                <section class="addcontact">
+                    <p>610 - xxx - xxxx</p>
+                    <p>m**********@gmail.com</p>
+                </section>   -->
 </Main>
 
 <Footer class="footer">
     <h4>Michael DiSanto 2021</h4>
 </Footer>
 
-    
-
-
-
-
 </Body>
+</html>

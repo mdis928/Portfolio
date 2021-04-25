@@ -7,19 +7,21 @@ In the webpage, you will see my name in the header and a workable nav bar. Feel 
 
 If you click on the "About me" or scroll down, you will see a bio about my past work experience and my future goal.
 
-If you click on the "Portfolio" or scroll down, you will see the first homework assignment, Horiseon. This homework was to focusing on refactoring. If you click on the picture, it will take you to the github repository and you can take look at the code.
+If you click on the "Portfolio" or scroll down, you will see the first project. We were required to make different different server side API calls. My teammates and I created a Dinner Meal Planning API where you plan each meal and drink each day of the week.
 
-There are smaller placeholder images below the main link. In the future, these placeholder images will be replaced with other homeworks and miniprojects. If you do click on them, it will take you to my github. 
+Below are two homework assignments. I have added the horiseon refactoring assignment where we need to clean up the html semantically. The other homework assignment was a day planner where a third party was used.
 
-If you click on "Contact' or scroll down, you will see links to my linkedin and my github. I didn't want to give out my phone number out. I prefer if recruiters contact me through LinkedIn. However, I will tweak this section as I continue onto the course. I may add a resume section but I may put my resume in my linkedin.
+If you click on "Contact' or scroll down, you will see links to my linkedin and my github. I didn't want to give out my phone number out. I prefer if recruiters contact me through LinkedIn. However, I will tweak this section as I continue onto the course.
+
+I have added a resume link. Please click on the link in the top right of the portfolio page to visit my linkedin page.
 
 As for the presentation of the webpage, I made sure that I have a responsive layout. The text, headers, and sections wrap and flex when you make the window size smaller. 
 
 The text also becomes small when a max-width of 950px is reached.
 
-When you hover onto the headers, nav links, they change color
+When you hover onto the headers, nav links, they change color.
 
-Also when the window size changes the profile picture and the Horiseon picture adjust. Media queries doing their job!
+Also when the window size changes the profile picture and the Horiseon picture adjust.
 
 I hope that this webpage is a good start to demostrate my skillset. Feel free to take a look at my code!
 
@@ -27,6 +29,7 @@ https://github.com/mdis928/Portfolio
 https://mdis928.github.io/Portfolio/
 
 
-![Michael_Portfolio](https://user-images.githubusercontent.com/79114439/111081108-082e8180-84d8-11eb-9871-62bea0f995ec.png)
+![Michael_Portfolio](https://user-images.githubusercontent.com/79114439/115996776-aec57200-a5ae-11eb-8c1b-36e700e8688c.png)
+
 
 
