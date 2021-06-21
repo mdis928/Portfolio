@@ -5,7 +5,7 @@ background-image: url(./black\ minimalist.jpg);
 }
 
 .header {
-  padding: 20px;
+  padding: 1%;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   display: flex;
   flex-wrap: wrap;
@@ -14,14 +14,14 @@ background-image: url(./black\ minimalist.jpg);
 
 .header h1 {
 color: white;
-font-size: 105px;
+font-size: 500%;
 display: flex;
-margin-right: 400px;
+margin-right: 25%;
 }
 
 .header nav {
-padding-top: 49px;
-font-size: 25px;
+padding-top: 2.5%;
+font-size: 10px;
 }
 
 .header nav ul li {
@@ -31,7 +31,7 @@ display: inline-block;
 a {
   color: white;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  font-size: 30px; 
+  font-size: 300%; 
 }
 
 a:hover {
@@ -47,10 +47,10 @@ a:hover {
 /* Beginning of Profile Image */
 .Michael {
 background-image: url("../Portfolio/Mike.jpg");
-margin-bottom: 10px;
-margin-left: 159px;
-flex: 1 0 400px;
-display: flex;
+margin-bottom: 1%;
+margin-left: 10%
+/* flex: 1 0 400%; */
+/* display: flex; */
 }
 /* End of profile Image */
 
@@ -63,11 +63,11 @@ display: flex;
 /* Beginning of Main Section */
 .headerh2 {
 color: #2b66ca;
-font-size: 70px;
+font-size: 300%;
 display: inline-flex;
-margin: 25px;
-margin-left: 83px;
-margin-top: 25px;
+margin: 1%;
+margin-left: 10%;
+margin-top: 1%;
 text-align: center;
 }
 
@@ -78,16 +78,16 @@ text-align: center;
 
 .bio {
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-font-size: 30px;
-margin-right: 125px;
-margin-left: 160px;
-margin-bottom: 19px;
+font-size: 180%;
+margin-right: 10%;
+margin-left: 10%;
+margin-bottom: 2%;
 color: white;
 }
 
 .horiseon {
 flex: 50% ;
-margin-bottom: 19px;
+margin-bottom: 5%;
 display: flex;
 position: relative;
 text-align: center;
@@ -108,12 +108,30 @@ text-align: center;
   color: white;
 }
 
-.containerproject {
+.containerproject1 {
+  text-align: center;
+  margin-bottom: 5%;
+}
+
+.containerproject1 a {
+  font-size: 150% ;
+}
+
+.containerproject2 a {
+  font-size: 150% ;
+}
+
+.containerproject2 {
   text-align: center;
 }
 
-.containerproject h2 {
-  font-size: 40px;
+.containerproject1 h2 {
+  font-size: 175%;
+  color: white;
+}
+
+.containerproject2 h2 {
+  font-size: 175%;
   color: white;
 }
 
@@ -127,13 +145,26 @@ text-align: center;
   display: inline-block;
 }
 
+
+.imageEmployee {
+  box-shadow: 0 0 20px white ;
+}
+
 .container h2 {
-  font-size: 40px;
+  font-size: 175%;
+}
+
+.container a {
+  font-size: 150%;
 }
 
 .contact {
   text-align: center;
   color: white;
+}
+
+.contact a {
+  font-size: 100%;
 }
 
 .footer{
