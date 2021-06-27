@@ -29,7 +29,7 @@ https://github.com/mdis928/Portfolio
 https://mdis928.github.io/Portfolio/
 
 
-![Michael_Portfolio](https://user-images.githubusercontent.com/79114439/115996776-aec57200-a5ae-11eb-8c1b-36e700e8688c.png)
+![Michael DiSanto's_Porfolio_updated](https://user-images.githubusercontent.com/79114439/123528894-59463800-d6b9-11eb-8e21-deb09d930781.png)
 
 
 
