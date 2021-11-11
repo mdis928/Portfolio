@@ -26,6 +26,7 @@ font-size: 10px;
 
 .header nav ul li {
 display: inline-block;
+margin-left: 10px;
 }
 
 a {
