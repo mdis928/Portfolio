@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Intro
-Hello, my name is Michael DiSanto and welcome to my portfolio page! I have graduated for the Upenn Full Stack Development Coding Bootcamp in August 2021.
+Hello, my name is Michael DiSanto and welcome to my portfolio page! I have graduated from the Upenn Full Stack Development Coding Bootcamp in August 2021.
 
 On this static webpage, you will see my name in the header and a workable nav bar. Feel free to click on the nav bar.
 If you click on the "About me" or scroll down, you will see a bio about my past work experience.
